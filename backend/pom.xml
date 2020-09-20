@@ -53,6 +53,11 @@
 			<artifactId>HikariCP</artifactId>
 			<version>${hikariCP.version}</version>
 		</dependency>
+		<dependency>
+			<groupId>pl.sdacademy</groupId>
+			<artifactId>common</artifactId>
+			<version>${project.version}</version>
+		</dependency>
 
 
 		<dependency>
